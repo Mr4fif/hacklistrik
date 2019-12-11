@@ -25,10 +25,10 @@ echo $pur"    '==============='  '--'"
 echo ""
 echo -n $cy" Masukin Nomer Token Listrik Lu TOD!: "
 read t
-echo $pur"<•===========================•>"
+echo $pur"<â€¢===========================â€¢>"
 echo -n $cy" Jadi Beneran Mau Hack Listrik Nih?: "
 read kl
-echo $pur"<•===========================•>"
+echo $pur"<â€¢===========================â€¢>"
 echo $me "Tunggu Bentar Ya SETAN "
 sleep 7
 echo $mer"Sedang Memutuskan Aliran listrik pada $t $st"
@@ -38,17 +38,17 @@ clear
 echo $cy"1. Pastikan Hp Selalu Menyala"
 sleep 4
 echo ""
-echo $pur"<•===========================•>"
+echo $pur"<â€¢===========================â€¢>"
 echo ""
 echo $cy"2. Dekatkan Hp Dengan Kontak Listrik"
 sleep 4
 echo ""
-echo $pur"<•===========================•>"
+echo $pur"<â€¢===========================â€¢>"
 echo ""
 echo $cy"3. Tempelkan Hp Dengan Kontak Listrik Ujung Bawah"
 sleep 4
 echo ""
-echo $pur"<•===========================•>"
+echo $pur"<â€¢===========================â€¢>"
 echo ""
 echo $cy"4. Tekan Saklar ( Kontak Listrik ) Menggunakan Hp, Pada Bagian Ujung Bawah Saklar"
 sleep 4
