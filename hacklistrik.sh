@@ -1,5 +1,4 @@
 #!/system/bin/sh
-
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
